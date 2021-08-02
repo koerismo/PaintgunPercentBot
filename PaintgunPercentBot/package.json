@@ -1,0 +1,18 @@
+{
+  "name": "paintgunpercent",
+  "version": "1.0.0",
+  "description": "A discord bot that allows recording of paintgun percent times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "baguettery",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord": "^0.8.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
